@@ -8,18 +8,18 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: Reproducible AI
 # description and keywords for meta tags
-description: "Create an OER workshop website quick and easy!"
-keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
+description: "The AAAI 2026 Workshop on Reproducible AI (RAI)"
+keywords: "reproducability, replicability, repeatability, scientific rigor"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Edward Raff
+pub_year: 2025
+github_username: EdwardRaff
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/ReproducibleAI/reproducibleai.github.io"
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
