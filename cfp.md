@@ -3,6 +3,10 @@ title: CFP
 nav: true
 ---
 
+# Submission Link
+
+Please submit all submissions to [this OpenReview link](https://openreview.net/group?id=AAAI.org/2026/Workshop/RAI&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
+
 # Call For Papers
 
 Beyond our Vibe Reproducibility challenge, we also welcome authors to document experiences in attempting to reproduce papers presented at previous AAAI conferences (Main Track) and papers that have been published in the Journal of Artificial Intelligence Research (JAIR), or other academic AI/ML venues. Such works are most influential and useful when they document insights and difficulties in reproduction, what worked well, and distil their knowledge into a realization that may be applicable to other papers in the future. 
@@ -16,6 +20,8 @@ More broadly, we welcome submissions of both full technical papers and position 
 
 # Dates 
 
-Submission Deadline: October 22, AOE
+Submission Deadline: October 31, AOE
 
-Notification date: November 5
+Due to an error in putting up the CFP link, we are extending the deadline to October 31!
+
+Notification date: November 14-21
