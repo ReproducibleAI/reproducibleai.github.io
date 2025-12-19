@@ -5,7 +5,7 @@ nav: true
 
 # Organizers
 
-* Odd Erik Gundersen, Norwegian University of Science and Technology, odderik.gundersen@ntnu.no
+* Odd Erik Gundersen, Norwegian University of Science and Technology, odderik@ntnu.no
 * Edward Raff, CrowdStrike and University of Maryland, Baltimore County, edward.raff@crowdstrike.com
 * Sagar Samtani, Indiana University, ssamtani@iu.edu
 
