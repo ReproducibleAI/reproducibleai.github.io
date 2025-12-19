@@ -5,7 +5,7 @@ nav: true
 
 # Organizers
 
-* Odd Erik Gundersen, Aneo AS and Norwegian University of Science and Technology, odderik.gundersen@aneo.com
+* Odd Erik Gundersen, Aneo AS and Norwegian University of Science and Technology, odderik.gundersen@ntnu.no
 * Edward Raff, CrowdStrike and University of Maryland, Baltimore County, edward.raff@crowdstrike.com
 * Sagar Samtani, Indiana University, ssamtani@iu.edu
 
