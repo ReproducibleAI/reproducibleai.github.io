@@ -11,4 +11,5 @@ nav: true
 
 # Program Committee
 
-To be filled out. 
+* Thijs Snelleman, Scientific Programmer & PhD Candidate, RWTH Aachen University, snelleman@aim.rwth-aachen.de
+* TBA

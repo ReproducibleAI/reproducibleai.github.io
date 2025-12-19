@@ -1,5 +1,5 @@
 ---
-title: Vibe Coding Reproducibility Challenge
+title: VCR Challenge
 nav: true
 ---
 
