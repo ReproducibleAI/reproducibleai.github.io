@@ -1,9 +1,9 @@
 ---
-title: Vibe Coding Reproducability Challenge
+title: Vibe Coding Reproducibility Challenge
 nav: true
 ---
 
-# Vibe Coding Reproducability Challenge
+# Vibe Coding Reproducibility Challenge
 
 The advent of "Vibe Coding" has posed new risks and potential for reproducibility. On one hand, many developers feel like they can accomplish work faster, tackle larger projects, and be especially effective in "start from nothing" tasks. On the other hand, vibe coding has also entered the parlance of "AI slop" where outputs are derided for inaccuracies and over-engineered complexity. 
 
