@@ -15,10 +15,10 @@ We are excited to see you in Singapore this coming week! Please see the program 
 
 As part of the workshop, we hope to work with you for a "position paper" session following the talks to amplify the work that everyone is performing.
 
-09:00–09:15 — Opening (Edward Raff, Odd Erik Gundersen)
+09:00–09:15 — Opening (Edward Raff, Odd Erik Gundersen)\
 Welcome, workshop goals, potential special issue, and position paper plan.
 
-09:15–10:00 — Keynote + Q&A (45 min)
+09:15–10:00 — Keynote + Q&A (45 min)\
 Keynote talk followed by questions.
 
 10:00–10:30 — Session 1: Problem framing & reference baselines (2 papers, 15 min each)
