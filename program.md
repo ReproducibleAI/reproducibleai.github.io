@@ -5,9 +5,7 @@ nav: true
 
 # Keynotes
 
-[Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/index.html) Distinguished Professor, Department of Computer Science and and Information Engineering, National Taiwan University
-
-One more TBD. 
+On the "Rough Use" of Machine Learning Techniques: a Story about Unrealistic Prediction, by [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/index.html) Distinguished Professor, National Taiwan University, and Affiliated Professor, MBZUAI
 
 # Tentative Program
 
