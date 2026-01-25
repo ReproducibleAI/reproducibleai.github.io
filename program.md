@@ -21,7 +21,7 @@ Keynote talk followed by questions.
 
 10:00–10:30 — Session 1: Problem framing & reference baselines (2 papers, 15 min each)
 
-Automated Reproducibility Has a Problem Statement Problem\
+[Automated Reproducibility Has a Problem Statement Problem]()\
 _Thijs Snelleman, Peter Lundestad Lawrence, Holger H. Hoos, Odd Erik Gundersen_
 
 open-sci-ref-0.01: open and reproducible reference baselines for language model and dataset comparison\
@@ -29,7 +29,7 @@ _Marianna Nezhurina, Jörg K.H. Franke, Taishi Nakamura, Timur Carstensen, Nicco
 
 10:30–11:00 — Coffee Break (AAAI-defined)
 
-11:00–12:30 — Session 2: Reproducibility in agents, code, benchmarks, and images (6 papers, 15 min each)
+11:00–12:00 — Session 2: Reproducibility in agents, code, benchmarks, and images (6 papers, 15 min each)
 
 AI Copilots for Reproducibility in Science: A Case Study\
 _Adrien Bibal, Steven Minton, Deborah Khider, Yolanda Gil_
@@ -40,18 +40,18 @@ _Bhanu Prakash Vangala, Ali Adibifar, Tanu Malik, Ashish Gehani_
 CAIBench: A Meta-Benchmark for Reproducible Labor-Relevant Agentic Cybersecurity Tasks\
 _María Sanz-Gómez, Víctor Mayoral-Vilches, Francesco Balassone, Luis Javier Navarrete Lozano, Cristobal Ricardo Jesús Veas Chavez, Maite del Mundo de Torres_
 
+Learning to be Reproducible: Custom Loss Design for Robust Neural Networks\
+_Waqas Ahmed, Sheeba Samuel, Kevin Coakley, Birgitta Koenig-Ries, Odd Erik Gundersen_
+
+12:00–13:00 — Lunch
+
+13:00–14:15 — Session 3: Images, stability & simpler methods in applied settings (2 papers, 15 min each)
+
 Exploration of Reproducible Generated Image Detection\
 _Yihang Duan_
 
 Image Tiling for High-Resolution Reasoning: Balancing Local Detail with Global Context\
 _Anatole Jacquin de Margerie, Alexis Roger_
-
-Learning to be Reproducible: Custom Loss Design for Robust Neural Networks\
-_Waqas Ahmed, Sheeba Samuel, Kevin Coakley, Birgitta Koenig-Ries, Odd Erik Gundersen_
-
-12:30–13:30 — Lunch
-
-13:30–14:00 — Session 3: Stability & simpler methods in applied settings (2 papers, 15 min each)
 
 Measuring Stability Beyond Accuracy in Small Open-Source Medical Large Language Models for Pediatric Endocrinology\
 _Vanessa D’Amario, Randy Daniel, Alessandro Zanetti, Dhruv Edamadaka, Nitya Alaparthy, Joshua Tarkoff_
@@ -59,7 +59,12 @@ _Vanessa D’Amario, Randy Daniel, Alessandro Zanetti, Dhruv Edamadaka, Nitya Al
 Simpler Methods Work Better for L1 Penalized Logistic Models and Large Datasets\
 _Edward Raff, James Holt_
 
-14:00–15:30 — Workshop Part 1: Towards a position paper (Odd Erik Gundersen, Thijs Snelleman, Edward Raff)\
+Forest vs Tree: The $(N, K)$ Trade-off in Reproducible ML Evaluation\
+_Deepak Pandita_
+
+14:15-14:30 - Short Break
+
+14:30–15:30 — Workshop Part 1: Towards a position paper (Odd Erik Gundersen, Thijs Snelleman, Edward Raff)\
 Goal-setting, scope, key claims, outline, and breakout assignments.
 
 15:30–16:00 — Coffee Break
