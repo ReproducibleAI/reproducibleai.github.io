@@ -29,7 +29,7 @@ _Marianna Nezhurina, Jörg K.H. Franke, Taishi Nakamura, Timur Carstensen, Nicco
 
 10:30–11:00 — Coffee Break (AAAI-defined)
 
-11:00–12:00 — Session 2: Reproducibility in agents, code, benchmarks, and images (6 papers, 15 min each)
+11:00–12:00 — Session 2: Reproducibility in agents, code, benchmarks, and images (4 papers, 15 min each)
 
 [AI Copilots for Reproducibility in Science: A Case Study](https://arxiv.org/abs/2506.20130)\
 _Adrien Bibal, Steven Minton, Deborah Khider, Yolanda Gil_
@@ -48,7 +48,7 @@ _Waqas Ahmed, Sheeba Samuel, Kevin Coakley, Birgitta Koenig-Ries, Odd Erik Gunde
 
 12:00–13:00 — Lunch
 
-13:00–14:15 — Session 3: Images, stability & simpler methods in applied settings (2 papers, 15 min each)
+13:00–14:15 — Session 3: Images, stability & simpler methods in applied settings (5 papers, 15 min each)
 
 [Exploration of Reproducible Generated Image Detection](https://arxiv.org/abs/2512.21562)\
 _Yihang Duan_
