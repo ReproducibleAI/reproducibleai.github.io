@@ -62,7 +62,7 @@ _Vanessa D’Amario, Randy Daniel, Alessandro Zanetti, Dhruv Edamadaka, Nitya Al
 Simpler Methods Work Better for L1 Penalized Logistic Models and Large Datasets\
 _Edward Raff, James Holt_
 
-Forest vs Tree: The $(N, K)$ Trade-off in Reproducible ML Evaluation\
+[Forest vs Tree: The $(N, K)$ Trade-off in Reproducible ML Evaluation](https://arxiv.org/abs/2508.03663)\
 _Deepak Pandita_
 
 14:15-14:30 - Short Break
