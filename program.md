@@ -19,7 +19,8 @@ Welcome, workshop goals, potential special issue, and position paper plan.
 09:15–10:00 — Keynote + Q&A (45 min)\
 Keynote talk followed by questions.
 
-10:00–10:30 — Session 1: Problem framing & reference baselines (2 papers, 15 min each)
+10:00–10:30 — Session 1: Problem framing & reference baselines (2 papers, 15 min each)\
+_Session Chair: Waqas Ahmed_
 
 [Automated Reproducibility Has a Problem Statement Problem](https://arxiv.org/abs/2601.04226)\
 _Thijs Snelleman, Peter Lundestad Lawrence, Holger H. Hoos, Odd Erik Gundersen_
@@ -29,7 +30,8 @@ _Marianna Nezhurina, Jörg K.H. Franke, Taishi Nakamura, Timur Carstensen, Nicco
 
 10:30–11:00 — Coffee Break (AAAI-defined)
 
-11:00–12:00 — Session 2: Reproducibility in agents, code, benchmarks, and images (4 papers, 15 min each)
+11:00–12:00 — Session 2: Reproducibility in agents, code, benchmarks, and images (4 papers, 15 min each)\
+_Session Chair: Peter Lundestad Lawrence_
 
 [AI Copilots for Reproducibility in Science: A Case Study](https://arxiv.org/abs/2506.20130)\
 _Adrien Bibal, Steven Minton, Deborah Khider, Yolanda Gil_
@@ -48,7 +50,8 @@ _Waqas Ahmed, Sheeba Samuel, Kevin Coakley, Birgitta Koenig-Ries, Odd Erik Gunde
 
 12:00–13:00 — Lunch
 
-13:00–14:15 — Session 3: Images, stability & simpler methods in applied settings (5 papers, 15 min each)
+13:00–14:15 — Session 3: Images, stability & simpler methods in applied settings (5 papers, 15 min each)\
+_Session Chair: Thijs Snelleman_
 
 [Exploration of Reproducible Generated Image Detection](https://arxiv.org/abs/2512.21562)\
 _Yihang Duan_
